@@ -1,0 +1,35 @@
+{
+    "responseStatus": "OK",
+    "OKContentProduct": {
+        "product": [
+            {
+                "imageUrl": "assets/images/image_1.png",
+                "title": "Asian Forest Scorpion",
+                "price": "50000",
+                "stok": "20",
+                "status": "Aktif"
+            },
+            {
+                "imageUrl": "assets/images/image_4.png",
+                "title": "Tarantula Brachipelma Albopilosum",
+                "price": "150000",
+                "stok": "20",
+                "status": "Aktif"
+            },
+            {
+                "imageUrl": "assets/images/image_2.png",
+                "title": "Tarantula Brachipelma Boehmi",
+                "price": "150000",
+                "stok": "20",
+                "status": "Aktif"
+            },
+            {
+                "imageUrl": "assets/images/image_3.png",
+                "title": "Tarantula Brachipelma Emilia",
+                "price": "200000",
+                "stok": "20",
+                "status": "Aktif"
+            }
+        ]
+    }
+}

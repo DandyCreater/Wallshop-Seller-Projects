@@ -1,0 +1,22 @@
+{
+    "responseCode": "OK",
+    "OKContentPopuler": {
+        "items": [
+            {
+                "imageUrl": "assets/images/image_1.png",
+                "title": "Asian Forest Scorpion",
+                "count": "1200"
+            },
+            {
+                "imageUrl": "assets/images/image_2.png",
+                "title": "Tarantula Brachipelma Emilia",
+                "count": "1100"
+            },
+            {
+                "imageUrl": "assets/images/image_3.png",
+                "title": "Brachipelma Boehmi",
+                "count": "978"
+            }
+        ]
+    }
+}
